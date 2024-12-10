@@ -83,7 +83,6 @@ Attendance Management System using Face Recognition/
 ├── main_Run.py                  # Main application file
 ├── training.py                  # Script for training the face recognition model
 ├── testing.py                   # Script for testing face recognition
-├── mini_app.py                  # Simple GUI application for capturing images
 ├── app.py                       # Streamlit app for attendance visualization
 └── README.md                    # Project documentation
 ```
@@ -109,4 +108,4 @@ Special thanks to the following:
 
 ---
 
-For any questions or issues, feel free to contact **[your email]**.
+For any questions or issues, feel free to contact **deepeshrathore.153@gmail.com**.
